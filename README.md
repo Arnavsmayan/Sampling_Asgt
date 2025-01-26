@@ -1,8 +1,10 @@
 # Sampling_Asgt
 
+The following table shows the best sampling methods for each model based on accuracy.
+
 | Sampling Method     | Random Forest | Logistic Regression | Decision Tree | KNN   | SVM   |
 |---------------------|---------------|----------------------|---------------|-------|-------|
-| Random Sampling     | <mark>0.9902</mark>    | 0.9020               | **0.9706**    | 0.8170| 0.6569|
+| Random Sampling     | **0.9902**    | 0.9020               | **0.9706**    | 0.8170| 0.6569|
 | Stratified Sampling | 0.9935        | 0.9052               | 0.9641        | 0.8268| 0.6536|
 | Cluster Sampling    | 0.9935        | 0.9052               | 0.9641        | 0.8268| 0.6536|
 | Systematic Sampling | 0.9935        | 0.9052               | 0.9641        | 0.8268| 0.6536|
